@@ -1,0 +1,65 @@
+Exam_Order,Semester,Exam_Type,Exam_Name,Subject,Mark
+1,Year 1 Sem 1,Midterm,Year 1 Sem 1 - Midterm,Math,66
+1,Year 1 Sem 1,Midterm,Year 1 Sem 1 - Midterm,Kiswahili,79
+1,Year 1 Sem 1,Midterm,Year 1 Sem 1 - Midterm,English,84
+1,Year 1 Sem 1,Midterm,Year 1 Sem 1 - Midterm,Physics,63
+1,Year 1 Sem 1,Midterm,Year 1 Sem 1 - Midterm,Chemistry,64
+1,Year 1 Sem 1,Midterm,Year 1 Sem 1 - Midterm,Biology,72
+1,Year 1 Sem 1,Midterm,Year 1 Sem 1 - Midterm,Community Service Learning,77
+1,Year 1 Sem 1,Midterm,Year 1 Sem 1 - Midterm,ICT,88
+2,Year 1 Sem 1,Finals,Year 1 Sem 1 - Finals,Math,57
+2,Year 1 Sem 1,Finals,Year 1 Sem 1 - Finals,Kiswahili,80
+2,Year 1 Sem 1,Finals,Year 1 Sem 1 - Finals,English,69
+2,Year 1 Sem 1,Finals,Year 1 Sem 1 - Finals,Physics,61
+2,Year 1 Sem 1,Finals,Year 1 Sem 1 - Finals,Chemistry,77
+2,Year 1 Sem 1,Finals,Year 1 Sem 1 - Finals,Biology,70
+2,Year 1 Sem 1,Finals,Year 1 Sem 1 - Finals,Community Service Learning,67
+2,Year 1 Sem 1,Finals,Year 1 Sem 1 - Finals,ICT,89
+3,Year 1 Sem 2,Midterm,Year 1 Sem 2 - Midterm,Math,67
+3,Year 1 Sem 2,Midterm,Year 1 Sem 2 - Midterm,Kiswahili,85
+3,Year 1 Sem 2,Midterm,Year 1 Sem 2 - Midterm,English,73
+3,Year 1 Sem 2,Midterm,Year 1 Sem 2 - Midterm,Physics,75
+3,Year 1 Sem 2,Midterm,Year 1 Sem 2 - Midterm,Chemistry,71
+3,Year 1 Sem 2,Midterm,Year 1 Sem 2 - Midterm,Biology,84
+3,Year 1 Sem 2,Midterm,Year 1 Sem 2 - Midterm,Community Service Learning,74
+3,Year 1 Sem 2,Midterm,Year 1 Sem 2 - Midterm,ICT,79
+4,Year 1 Sem 2,Finals,Year 1 Sem 2 - Finals,Math,75
+4,Year 1 Sem 2,Finals,Year 1 Sem 2 - Finals,Kiswahili,71
+4,Year 1 Sem 2,Finals,Year 1 Sem 2 - Finals,English,68
+4,Year 1 Sem 2,Finals,Year 1 Sem 2 - Finals,Physics,78
+4,Year 1 Sem 2,Finals,Year 1 Sem 2 - Finals,Chemistry,63
+4,Year 1 Sem 2,Finals,Year 1 Sem 2 - Finals,Biology,90
+4,Year 1 Sem 2,Finals,Year 1 Sem 2 - Finals,Community Service Learning,64
+4,Year 1 Sem 2,Finals,Year 1 Sem 2 - Finals,ICT,74
+5,Year 2 Sem 1,Midterm,Year 2 Sem 1 - Midterm,Math,73
+5,Year 2 Sem 1,Midterm,Year 2 Sem 1 - Midterm,Kiswahili,72
+5,Year 2 Sem 1,Midterm,Year 2 Sem 1 - Midterm,English,77
+5,Year 2 Sem 1,Midterm,Year 2 Sem 1 - Midterm,Physics,77
+5,Year 2 Sem 1,Midterm,Year 2 Sem 1 - Midterm,Chemistry,65
+5,Year 2 Sem 1,Midterm,Year 2 Sem 1 - Midterm,Biology,90
+5,Year 2 Sem 1,Midterm,Year 2 Sem 1 - Midterm,Community Service Learning,57
+5,Year 2 Sem 1,Midterm,Year 2 Sem 1 - Midterm,ICT,87
+6,Year 2 Sem 1,Finals,Year 2 Sem 1 - Finals,Math,70
+6,Year 2 Sem 1,Finals,Year 2 Sem 1 - Finals,Kiswahili,75
+6,Year 2 Sem 1,Finals,Year 2 Sem 1 - Finals,English,75
+6,Year 2 Sem 1,Finals,Year 2 Sem 1 - Finals,Physics,67
+6,Year 2 Sem 1,Finals,Year 2 Sem 1 - Finals,Chemistry,71
+6,Year 2 Sem 1,Finals,Year 2 Sem 1 - Finals,Biology,72
+6,Year 2 Sem 1,Finals,Year 2 Sem 1 - Finals,Community Service Learning,69
+6,Year 2 Sem 1,Finals,Year 2 Sem 1 - Finals,ICT,84
+7,Year 2 Sem 2,Midterm,Year 2 Sem 2 - Midterm,Math,59
+7,Year 2 Sem 2,Midterm,Year 2 Sem 2 - Midterm,Kiswahili,86
+7,Year 2 Sem 2,Midterm,Year 2 Sem 2 - Midterm,English,71
+7,Year 2 Sem 2,Midterm,Year 2 Sem 2 - Midterm,Physics,63
+7,Year 2 Sem 2,Midterm,Year 2 Sem 2 - Midterm,Chemistry,58
+7,Year 2 Sem 2,Midterm,Year 2 Sem 2 - Midterm,Biology,75
+7,Year 2 Sem 2,Midterm,Year 2 Sem 2 - Midterm,Community Service Learning,77
+7,Year 2 Sem 2,Midterm,Year 2 Sem 2 - Midterm,ICT,77
+8,Year 2 Sem 2,Finals,Year 2 Sem 2 - Finals,Math,59
+8,Year 2 Sem 2,Finals,Year 2 Sem 2 - Finals,Kiswahili,90
+8,Year 2 Sem 2,Finals,Year 2 Sem 2 - Finals,English,81
+8,Year 2 Sem 2,Finals,Year 2 Sem 2 - Finals,Physics,71
+8,Year 2 Sem 2,Finals,Year 2 Sem 2 - Finals,Chemistry,58
+8,Year 2 Sem 2,Finals,Year 2 Sem 2 - Finals,Biology,79
+8,Year 2 Sem 2,Finals,Year 2 Sem 2 - Finals,Community Service Learning,59
+8,Year 2 Sem 2,Finals,Year 2 Sem 2 - Finals,ICT,81
